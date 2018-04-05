@@ -46,3 +46,8 @@
 - Google 翻訳
 - Linkclimp（必要があれば）
 - Restlet Client（必要があれば）
+- Lighthouse
+- Trello（使っていれば）
+    - Projects for Trello
+    - Scrum for Trello
+- Tampermonkey（案外使うかも）
