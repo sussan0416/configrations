@@ -34,6 +34,10 @@
 
 - LICEcap（動画でスクリーンキャプチャ撮るとかがあれば）
 
+## QuickLook(Mac)
+
+- qlImageSize
+
 ## Chrome Extensions
 
 - Website IP
