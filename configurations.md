@@ -36,7 +36,10 @@
 
 ## QuickLook(Mac)
 
-- qlImageSize
+- brew cask install qlimagesize
+- brew cask install quicklook-json
+- brew cask install qlmarkdown
+- brew cask install qlcolorcode
 
 ## Chrome Extensions
 
