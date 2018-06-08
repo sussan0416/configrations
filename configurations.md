@@ -10,11 +10,10 @@
   - nkf
   - fswatch
   - zsh（Macならプリインストール版でもOK）
+  - colordiff
 - cask
   - docker-toolbox
   - iterm2
-  - qlmarkdown
-  - quicklook-json
   - vscode（caskからも入れられる）
   - virtual box
   - bitbar
