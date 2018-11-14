@@ -5,6 +5,7 @@
 ## Packages
 
 - homebrew
+  - git
   - vim
   - ctags
   - nkf
@@ -12,18 +13,18 @@
   - zsh（Macならプリインストール版でもOK）
   - colordiff
 - cask
+  - avast-security
+  - cmd-eikana
   - docker-toolbox
   - iterm2
   - vscode（caskからも入れられる）
   - virtual box
   - bitbar
+  - google-chrome
+  - google-japanese-ime
 - gem
 - npm
   - stubcell
-
-## Input Methods
-
-- Google 日本語入力
 
 ## Communication
 
